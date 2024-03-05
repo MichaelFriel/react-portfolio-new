@@ -1,0 +1,44 @@
+[
+    {
+    "Title": "Weather Dashboard",
+    "Image": "src/assets/weather-dashboard.png",
+    "Description": "This application is designed to be used as a personal weather forecast, where the user can view the 5 day forecast for any City. They can also revisit old searches; in doing so, this acts as a dashboard where someone can store their favourite locations and swiftly view the forecast.",
+    "Link": "https://michaelfriel.github.io/weather-dashboard/",
+    "GitHub": "https://github.com/MichaelFriel/weather-dashboard",
+    "Skill1": "Javascript",
+    "Skill2": "API Fetch"
+    
+},
+
+{
+    "Title": "Coding Quiz",
+    "Image": "src/assets/coding-quiz.png",
+    "Description": "This application is a quiz which is designed to test the user's knowledge of Javascript fundamentals. The rules are very simple and are as follows. There are currently ten questions to be answered. The user has 90 seconds in order to complete the quiz. When a question is answered incorrectly, a further 10 seconds is removed from the timer. Each correct question is worth 10 points, with the total score being showcased once the timer ends.",
+    "Link": "https://michaelfriel.github.io/coding-quiz/index.html",
+    "GitHub": "https://github.com/MichaelFriel/coding-quiz",
+    "Skill1": "Javascript",
+    "Skill2": "HTML/CSS"
+    
+},
+
+{
+    "Title": "Squad Profile Generator",
+    "Image": "src/assets/squad-generator.png",
+    "Description": "This application is intended to be used as a dynamic Team Page Generator. A user can initialise the application and answer a variety of questions about their team. Once completed, a HTML page containing the team bipgraphies will be created.",
+    "Link": "https://michaelfriel.github.io/squad-profile-generator/output/team.html",
+    "GitHub": "https://github.com/MichaelFriel/squad-profile-generator",
+    "Skill1": "OOP",
+    "Skill2": "Node Inquirer"
+},
+
+{
+    "Title": "README File Generator",
+    "Image": "src/assets/read-me-generator.png",
+    "Description": "This application is designed to be used as a personal weather forecast, where the user can view the 5 day forecast for any City. They can also revisit old searches; in doing so, this acts as a dashboard where someone can store their favourite locations and swiftly view the forecast.",
+    "Link": "",
+    "GitHub": "https://github.com/MichaelFriel/readme-generator-inquirer",
+    "Skill1": "Javascript",
+    "Skill2": "Node Inquirer"
+    
+}
+]
